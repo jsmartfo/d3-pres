@@ -1,0 +1,48 @@
+{
+    "name": "Developer Ecosystem",
+    "children": [{
+        "name": "Infrastructure",
+        "children": [{
+            "name": "vCloud setup"
+        }, 
+        {
+            "name": "iSandbox"
+        }, 
+        {
+            "name": "Session"
+        },        
+        {
+            "name": "Logging"
+        },        
+        {
+            "name": "Databases"
+        }]
+    },
+    {
+        "name": "Documentation",
+        "children": [{
+            "name": "API Documentation"
+        }, 
+        {
+            "name": "How to for ...."
+        }]
+    },
+    {
+        "name": "Software",
+        "children": [{
+            "name": "Drawing tools"
+        }, 
+        {
+            "name": "Developer IDE"
+        }]
+    },    
+    {
+        "name": "Hardware",
+        "children": [{
+            "name": "Macs"
+        }, 
+        {
+            "name": "Screen sizes, monitors"
+        }]
+    }]
+}
